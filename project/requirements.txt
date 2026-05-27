@@ -5,6 +5,7 @@ faiss-cpu
 sentence-transformers>=2.7.0
 huggingface-hub
 torch
+torchvision
 scikit-learn
 requests
 tqdm
